@@ -1,0 +1,21 @@
+{
+  "name": "ocampo_dit4d",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@handsontable/vue3": "^18.1.2",
+    "@mdi/font": "^7.4.47",
+    "handsontable": "^18.1.2",
+    "nuxt": "^4.5.2",
+    "vue": "^3.5.43",
+    "vue-router": "^5.3.1",
+    "vuetify": "^4.2.2"
+  }
+}
